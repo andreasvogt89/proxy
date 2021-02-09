@@ -2,4 +2,4 @@
 ### just used for private handle private traffic
 
 # TODO
-* [ ] create hook for home assistant
+* [x] create forwarding for GET requests with Baerer token
